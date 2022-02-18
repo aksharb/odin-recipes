@@ -1,5 +1,6 @@
 * {
   font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0px;
 }
 a {
   text-decoration: none;
@@ -10,6 +11,13 @@ li {
 }
 h1 {
   text-align: center;
+  background: darkorange;
+  color: beige;
+  border-radius: 10px;
+  box-shadow: 2px 2px darkgray;
+}
+p {
+  font-style: italic;
 }
 li {
   color: darkslategray;
